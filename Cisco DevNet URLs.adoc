@@ -7,12 +7,12 @@ https://www.youtube.com/@CiscoDevNetchannel[Cisco DevNet Youtube Channel]
 
 https://www.linkedin.com/company/cisco-devnet/[Cisco DevNet LinkedIn]  
 
-#Red Hat Ansible Automation PLatform URLs  
+# Red Hat Ansible Automation PLatform URLs  
 https://www.redhat.com/en/technologies/management/ansible/network-automation[Network automation with Red Hat Ansible Automation Platform]
 
 https://www.redhat.com/en/technologies/management/ansible/network/trial[Try it]
 
-developers.redhat.com[Red Hat Developers website]
+https://www.developer.redhat.com[Red Hat Developer website]
 
 https://www.youtube.com/@AnsibleAutomation[Red Hat Ansible youtube]
 
