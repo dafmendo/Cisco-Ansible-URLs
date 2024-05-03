@@ -20,4 +20,6 @@ https://www.youtube.com/watch?v=wXUgYfZKMHU&list=PLdu06OJoEf2axRLJvwAbAIWUOhPEv_
 
 https://www.redhat.com/en/interactive-labs/ansible#network-and-edge[Red Hat Ansible interactive labs for network automation]
 
-# https://www.ciscolive.com/global/learn/session-catalog.html?search=%22red%20hat%22#/ [Red Hat at Cisco Live]
+# Red Hat at Cisco Live US 2024
+
+https://www.ciscolive.com/global/learn/session-catalog.html?search=%22red%20hat%22#/[Red Hat at Cisco Live]
