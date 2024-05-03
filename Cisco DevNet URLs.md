@@ -1,6 +1,6 @@
 # Cisco-Ansible-URLs
 Single point of reference for Summit and AnsibleFest 2024
 
-[DevNet website] (https://developer.cisco.com)  
-Cisco DevNet Youtube Channel https://www.youtube.com/@CiscoDevNetchannel 
-LinkedIn https://www.linkedin.com/company/cisco-devnet/ 
+https://developer.cisco.com[DevNet website]  
+https://www.youtube.com/@CiscoDevNetchannel[Cisco DevNet Youtube Channel]
+https://www.linkedin.com/company/cisco-devnet/[Cisco DevNet LinkedIn]
