@@ -12,7 +12,7 @@ https://www.redhat.com/en/technologies/management/ansible/network-automation[Net
 
 https://www.redhat.com/en/technologies/management/ansible/network/trial[Try it]
 
-https://www.developer.redhat.com[Red Hat Developer website]
+https://developers.redhat.com/[Red Hat Developer website]
 
 https://www.youtube.com/@AnsibleAutomation[Red Hat Ansible youtube]
 
